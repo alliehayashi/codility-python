@@ -1,4 +1,4 @@
-# **Codility L1-L7 Practice **
+# **Codility L1-L7 Practice**
 ### **Used Language: Python**
 Lesson|Task|Score
 ----|---------|---------|
