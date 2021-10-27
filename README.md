@@ -22,5 +22,5 @@ Lesson 6 - Sorting|6-3_Triangle|[100 %](https://app.codility.com/demo/results/tr
 Lesson 6 - Sorting|6-4_NumberOfDiscIntersections|[50 %](https://app.codility.com/demo/results/trainingZVNMPR-A9F/)
 Lesson 7 - Stacks and Queues|7-1_Brackets|[100 %](https://app.codility.com/demo/results/training362HXK-Y5N/)
 Lesson 7 - Stacks and Queues|7-2_Fish|[100 %](https://app.codility.com/demo/results/training8VS725-QR4/)
-Lesson 7 - Stacks and Queues|Nesting|[100 %](https://app.codility.com/demo/results/trainingNR833T-F7Q/)
-Lesson 7 - Stacks and Queues|StoneWall|[100 %](https://app.codility.com/demo/results/training6RGQ2V-JX3/)
+Lesson 7 - Stacks and Queues|7-3_Nesting|[100 %](https://app.codility.com/demo/results/trainingNR833T-F7Q/)
+Lesson 7 - Stacks and Queues|7-4_StoneWall|[100 %](https://app.codility.com/demo/results/training6RGQ2V-JX3/)
