@@ -1,5 +1,4 @@
 # string S consists only of the characters "("
-# https://app.codility.com/demo/results/trainingNR833T-F7Q/
 
 def solution(S):
     check = []

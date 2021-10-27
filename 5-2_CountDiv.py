@@ -1,5 +1,6 @@
 # int A; int B, int K 
 # [A...B] which could be divided by K
+
 import math
 def solution(A, B, K):
     count = 0

@@ -1,21 +1,4 @@
 def solution(N):
-    # write your code in Python 3.6
-    value = "{0:b}".format(N)
-    gap_max_length = 0  #遇到1後，將目前為止最大的gap length存入
-    gap_count = 0  #累積計算目前的gap length
-    #print(value)
-    for i in value:
-        if i == '0':
-            gap_count+=1
-        elif i == '1':
-            if gap_count > gap_max_length:
-                gap_max_length = gap_count
-                gap_count = 0
-    
-    return gap_max_length
-    pass
-        
-def solution(N):
     N = "{0:b}".format(N) #str to binary
     max_count = 0 #累計最大數值
     count = 0 #本次計算數值

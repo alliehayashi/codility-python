@@ -18,7 +18,6 @@ def solution(A):
     else:
         return 0
 
-
 def check(A):
     N = len(A)
     A.sort()

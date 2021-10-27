@@ -1,9 +1,5 @@
-# you can write to stdout for debugging purposes, e.g.
-# print("this is a debug message")
-
 def solution(A, K):
-    # write your code in Python 3.6
-    if A.length == 0:
+    if len(A) == 0:
         exit
     if(K >= 0 & K <= 100):
     #[check]N and K are integers within the range [0..100]
@@ -16,9 +12,5 @@ def solution(A, K):
         
     for i in range (K):
         A.insert(0, A[-1]) #insert last one to index[0]
-        #print(A)
         A.pop(-1) #delete the last one which inserted
-        #print(A)
-
     return A
-    pass

@@ -1,5 +1,4 @@
 #returns the min of result
-
 def solution(A):
     passed, N, sum = check(A)
     A_list=[]

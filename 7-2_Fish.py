@@ -1,5 +1,4 @@
 # given ary A[] and B[]; A[] = fish size (distinct), B[] = direcrtions (0,1)
-# https://app.codility.com/demo/results/training8VS725-QR4/
 
 def solution(A, B):
     down = [] #只存downstream
