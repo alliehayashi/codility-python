@@ -1,5 +1,5 @@
 # **Codility L1-L7 Practice **
-### **used language: Python**
+### **Used Language: Python**
 Lesson|Task|Score
 ----|---------|---------|
 Lesson 1 - Iterations|1-1_BinaryGap|[100 %](https://app.codility.com/demo/results/trainingJ45AFM-5QP/)
