@@ -8,7 +8,7 @@ def solution(A, B):
             down.append(A[i])       
             
         else: 
-            while (len(down)>0 and A[i]>down[-1]): #upstream>downstreqam的話就持續pop掉
+            while (len(down)>0 and A[i]>down[-1]): #upstream>downstream的話就持續pop掉
                 down.pop()
                 
             if len(down) == 0: #一開始B[i]==0 或 check已經被扣光的情況

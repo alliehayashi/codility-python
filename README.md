@@ -3,7 +3,7 @@
 Lesson|Task|Score
 ----|---------|---------|
 Lesson 1 - Iterations|1-1_BinaryGap|[100 %](https://app.codility.com/demo/results/trainingJ45AFM-5QP/)
-Lesson 2 - Arrays|2-1_CyclicRotation|[87 %](https://app.codility.com/demo/results/trainingFRAXV3-8U9/)
+Lesson 2 - Arrays|2-1_CyclicRotation|[100 %](https://app.codility.com/demo/results/trainingBJ9ZJR-Z3J/)
 Lesson 2 - Arrays|2-2_OddOccurrencesInArray|22 %
 Lesson 3 - Time Complexity|3-1_FrogJmp|[100 %](https://app.codility.com/demo/results/trainingFYPNER-ATD/)
 Lesson 3 - Time Complexity|3-2_PermMissingElem|[100 %](https://app.codility.com/demo/results/trainingYJ6KF7-F8Z/)

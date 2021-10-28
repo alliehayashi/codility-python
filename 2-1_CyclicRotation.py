@@ -1,6 +1,6 @@
 def solution(A, K):
     if len(A) == 0:
-        exit
+        return []
     if(K >= 0 & K <= 100):
     #[check]N and K are integers within the range [0..100]
         for i in A:
